@@ -1,3 +1,22 @@
 body{
     background-color: tomato;
 }
+h2{
+    font-size: 30px;
+    background-color: blueviolet;
+}
+
+h1{
+    font-size: 50px;
+    background-color: aqua;
+
+}
+.galeria{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    object-position: top;
+}
+.capa{
+    width: 100%;
+}
