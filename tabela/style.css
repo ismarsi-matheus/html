@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(red, green, blue);
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    width: 50%;
+}
+Thead {
+    background-color: aqua;
+}
+th,td{
+    border: 4px groove;
+    padding: 8px 10px;
+}
+tbody{
+    background-color: rgb(229, 247, 247);
+    text-align: center;
+}
+tfoot{
+    background-color: rgb(133, 185, 185);
+    text-align: center;
+}
